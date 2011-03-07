@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/955/trunk/Ardupilot_25
+END
+Ardupilot_25_04.pde
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/954/trunk/Ardupilot_25/Ardupilot_25_04.pde
+END
+easystar_25.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/954/trunk/Ardupilot_25/easystar_25.h
+END
+servos.pde
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/954/trunk/Ardupilot_25/servos.pde
+END
+jason_EZStar.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/954/trunk/Ardupilot_25/jason_EZStar.h
+END
+control_attitude.pde
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/954/trunk/Ardupilot_25/control_attitude.pde
+END
+attitude.pde
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/954/trunk/Ardupilot_25/attitude.pde
+END
+system.pde
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/954/trunk/Ardupilot_25/system.pde
+END
+timing.pde
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/954/trunk/Ardupilot_25/timing.pde
+END
+GPS_NMEA.pde
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/954/trunk/Ardupilot_25/GPS_NMEA.pde
+END
+print.pde
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/954/trunk/Ardupilot_25/print.pde
+END
+sensors.pde
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/954/trunk/Ardupilot_25/sensors.pde
+END
+defines.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/954/trunk/Ardupilot_25/defines.h
+END
+waypoints.pde
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/954/trunk/Ardupilot_25/waypoints.pde
+END
+radio.pde
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/954/trunk/Ardupilot_25/radio.pde
+END
+navigation.pde
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/954/trunk/Ardupilot_25/navigation.pde
+END
+control_navigation.pde
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/954/trunk/Ardupilot_25/control_navigation.pde
+END
+groundStation.pde
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/954/trunk/Ardupilot_25/groundStation.pde
+END
+GPS_Sim.pde
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/954/trunk/Ardupilot_25/GPS_Sim.pde
+END
+controlSwitch.pde
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/954/trunk/Ardupilot_25/controlSwitch.pde
+END
+GPS_UBLOX.pde
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/954/trunk/Ardupilot_25/GPS_UBLOX.pde
+END
+GPS_IMU.pde
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/954/trunk/Ardupilot_25/GPS_IMU.pde
+END
+GPS_EM406.pde
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/955/trunk/Ardupilot_25/GPS_EM406.pde
+END
+events.pde
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/637/trunk/Ardupilot_25/events.pde
+END
