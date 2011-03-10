@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1459/trunk/libraries/AP_RangeFinder
+END
+AP_RangeFinder_MaxsonarLV.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1404/trunk/libraries/AP_RangeFinder/AP_RangeFinder_MaxsonarLV.cpp
+END
+AP_RangeFinder_MaxsonarXL.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1404/trunk/libraries/AP_RangeFinder/AP_RangeFinder_MaxsonarXL.cpp
+END
+AP_RangeFinder_MaxsonarLV.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1404/trunk/libraries/AP_RangeFinder/AP_RangeFinder_MaxsonarLV.h
+END
+AP_RangeFinder_SharpGP2Y.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1404/trunk/libraries/AP_RangeFinder/AP_RangeFinder_SharpGP2Y.cpp
+END
+keywords.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1234/trunk/libraries/AP_RangeFinder/keywords.txt
+END
+RangeFinder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1419/trunk/libraries/AP_RangeFinder/RangeFinder.cpp
+END
+AP_RangeFinder_MaxsonarXL.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1404/trunk/libraries/AP_RangeFinder/AP_RangeFinder_MaxsonarXL.h
+END
+AP_RangeFinder_SharpGP2Y.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1404/trunk/libraries/AP_RangeFinder/AP_RangeFinder_SharpGP2Y.h
+END
+RangeFinder.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1404/trunk/libraries/AP_RangeFinder/RangeFinder.h
+END
+AP_RangeFinder.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1234/trunk/libraries/AP_RangeFinder/AP_RangeFinder.h
+END

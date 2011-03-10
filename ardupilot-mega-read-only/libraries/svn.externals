@@ -1,0 +1,21 @@
+AP_ADC		https://arducopter.googlecode.com/svn/trunk/libraries/AP_ADC
+APM_BinComm	https://arducopter.googlecode.com/svn/trunk/libraries/APM_BinComm
+APM_BMP085	https://arducopter.googlecode.com/svn/trunk/libraries/APM_BMP085
+APM_RC		https://arducopter.googlecode.com/svn/trunk/libraries/APM_RC
+AP_Common	https://arducopter.googlecode.com/svn/trunk/libraries/AP_Common
+AP_Compass	https://arducopter.googlecode.com/svn/trunk/libraries/AP_Compass
+AP_EEProm	https://arducopter.googlecode.com/svn/trunk/libraries/AP_EEProm
+AP_EEPROMB	https://arducopter.googlecode.com/svn/trunk/libraries/AP_EEPROMB
+AP_DCM		https://arducopter.googlecode.com/svn/trunk/libraries/AP_DCM
+AP_GPS		https://arducopter.googlecode.com/svn/trunk/libraries/AP_GPS
+AP_IMU		https://arducopter.googlecode.com/svn/trunk/libraries/AP_IMU
+AP_Math		https://arducopter.googlecode.com/svn/trunk/libraries/AP_Math
+AP_Navigation	https://arducopter.googlecode.com/svn/trunk/libraries/AP_Navigation
+DataFlash	https://arducopter.googlecode.com/svn/trunk/libraries/DataFlash
+FastSerial	https://arducopter.googlecode.com/svn/trunk/libraries/FastSerial
+GCS_MAVLink	https://arducopter.googlecode.com/svn/trunk/libraries/GCS_MAVLink
+PID		https://arducopter.googlecode.com/svn/trunk/libraries/PID
+Waypoints	https://arducopter.googlecode.com/svn/trunk/libraries/Waypoints
+RC_Channel	https://arducopter.googlecode.com/svn/trunk/libraries/RC_Channel
+AP_RangeFinder	https://arducopter.googlecode.com/svn/trunk/libraries/AP_RangeFinder
+

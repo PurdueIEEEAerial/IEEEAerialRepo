@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2286/Sketchbook/trunk
+END
+svn.externals
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2176/Sketchbook/trunk/svn.externals
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/1992/Sketchbook/trunk/Makefile
+END

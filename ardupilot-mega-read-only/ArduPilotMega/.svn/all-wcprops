@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2367/ArduPilotMega/trunk
+END
+global_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2242/ArduPilotMega/trunk/global_data.h
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1991/ArduPilotMega/trunk/.project
+END
+APM_Config.h.reference
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2367/ArduPilotMega/trunk/APM_Config.h.reference
+END
+test.pde
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2365/ArduPilotMega/trunk/test.pde
+END
+.cproject
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2234/ArduPilotMega/trunk/.cproject
+END
+Parameters.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2350/ArduPilotMega/trunk/Parameters.h
+END
+HIL_Xplane.pde
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2288/ArduPilotMega/trunk/HIL_Xplane.pde
+END
+Attitude.pde
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2306/ArduPilotMega/trunk/Attitude.pde
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2367/ArduPilotMega/trunk/config.h
+END
+global_data.pde
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2234/ArduPilotMega/trunk/global_data.pde
+END
+HIL.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2136/ArduPilotMega/trunk/HIL.h
+END
+GCS.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2242/ArduPilotMega/trunk/GCS.h
+END
+defines.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2350/ArduPilotMega/trunk/defines.h
+END
+GCS_Mavlink.pde
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2350/ArduPilotMega/trunk/GCS_Mavlink.pde
+END
+ArduPilotMega.pde
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2367/ArduPilotMega/trunk/ArduPilotMega.pde
+END
+APM_Config_mavlink_hil.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2367/ArduPilotMega/trunk/APM_Config_mavlink_hil.h
+END
+commands_process.pde
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2344/ArduPilotMega/trunk/commands_process.pde
+END
+navigation.pde
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2350/ArduPilotMega/trunk/navigation.pde
+END
+setup.pde
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2367/ArduPilotMega/trunk/setup.pde
+END
+commands.pde
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2347/ArduPilotMega/trunk/commands.pde
+END
+Terminal commands.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1532/ArduPilotMega/trunk/Terminal%20commands.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1988/ArduPilotMega/trunk/Makefile
+END
+createTags
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1828/ArduPilotMega/trunk/createTags
+END
+commands_logic.pde
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2350/ArduPilotMega/trunk/commands_logic.pde
+END
+Log.pde
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2367/ArduPilotMega/trunk/Log.pde
+END
+APM_Config.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2367/ArduPilotMega/trunk/APM_Config.h
+END
+system.pde
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2367/ArduPilotMega/trunk/system.pde
+END
+APM_Config_xplane.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2367/ArduPilotMega/trunk/APM_Config_xplane.h
+END
+Mavlink_Common.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2350/ArduPilotMega/trunk/Mavlink_Common.h
+END
+command description.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2350/ArduPilotMega/trunk/command%20description.txt
+END
+sensors.pde
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2314/ArduPilotMega/trunk/sensors.pde
+END
+radio.pde
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2341/ArduPilotMega/trunk/radio.pde
+END
+planner.pde
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2295/ArduPilotMega/trunk/planner.pde
+END
+climb_rate.pde
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1532/ArduPilotMega/trunk/climb_rate.pde
+END
+events.pde
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2349/ArduPilotMega/trunk/events.pde
+END
+control_modes.pde
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2302/ArduPilotMega/trunk/control_modes.pde
+END

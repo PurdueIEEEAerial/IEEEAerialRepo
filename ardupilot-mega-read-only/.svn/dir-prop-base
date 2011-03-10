@@ -1,0 +1,6 @@
+K 13
+svn:externals
+V 77
+ArduPilotMega		https://ardupilot-mega.googlecode.com/svn/ArduPilotMega/trunk
+
+END

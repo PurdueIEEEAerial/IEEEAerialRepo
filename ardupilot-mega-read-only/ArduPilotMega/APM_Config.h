@@ -1,0 +1,13 @@
+// -*- tab-width: 4; Mode: C++; c-basic-offset: 4; indent-tabs-mode: t -*-
+
+// This file is just a placeholder for your configuration file.  If you wish to change any of the setup parameters from 
+// their default values, place the appropriate #define statements here.
+
+// For example if you wanted the Port 3 baud rate to be 38400 you would add a statement like the one below (uncommented)
+//#define SERIAL3_BAUD        38400
+
+
+// You may also put an include statement here to point at another configuration file.  This is convenient if you maintain
+// different configuration files for different aircraft or HIL simulation.  See the examples below
+//#include "APM_Config_mavlink_hil.h"
+//#include "Skywalker.h"

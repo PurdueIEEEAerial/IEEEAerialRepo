@@ -1,0 +1,6 @@
+K 13
+svn:externals
+V 84
+AP_RangeFinder https://arducopter.googlecode.com/svn/trunk/libraries/AP_RangeFinder
+
+END

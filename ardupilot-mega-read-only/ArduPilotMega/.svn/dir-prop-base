@@ -1,0 +1,17 @@
+K 10
+svn:ignore
+V 59
+APM_Config.h
+APM_Config_Mike.h
+APM_Config_jason.h
+xplane.h
+
+K 13
+svn:mergeinfo
+V 286
+/ArduPilotMega/branches/1.0-BETA:1266,1286-1288,1290-1291,1320,1323-1326,1350-1364,1371
+/ArduPilotMega/branches/AP_Var-integration:2156-2233
+/ArduPilotMega/branches/BinComm-integration:1341-1386
+/ArduPilotMega/branches/TrunkWithDCMLib:1310-1411
+/ArduPilotMega/branches/mavlink:1395-1523
+END

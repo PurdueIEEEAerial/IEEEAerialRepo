@@ -1,0 +1,116 @@
+// -*- tab-width: 4; Mode: C++; c-basic-offset: 4; indent-tabs-mode: t -*-
+
+/*
+	This event will be called when the failsafe changes
+	boolean failsafe reflects the current state
+*/
+void failsafe_on_event()
+{
+	// This is how to handle a failsafe.
+	switch(control_mode)
+	{
+		case MANUAL: // First position
+			set_mode(STABILIZE);
+			break;
+
+		case STABILIZE:
+		case FLY_BY_WIRE_A: // middle position
+		case FLY_BY_WIRE_B: // middle position
+			set_mode(RTL);
+			g.throttle_cruise = THROTTLE_CRUISE;    // note, not saved
+			break;
+
+		case CIRCLE: // middle position
+			break;
+
+		case AUTO: // middle position
+		case LOITER: // middle position
+			if (g.throttle_fs_action == 1) {
+				set_mode(RTL);
+				g.throttle_cruise = THROTTLE_CRUISE;    // note, not saved
+			}
+			// 2 = Stay in AUTO and ignore failsafe
+			break;
+
+		case RTL: // middle position
+			break;
+
+		default:
+			set_mode(RTL);
+			g.throttle_cruise = THROTTLE_CRUISE;
+			break;
+	}
+}
+
+
+void failsafe_off_event()
+{
+	if (g.throttle_fs_action == 2){
+		// We're back in radio contact
+		// return to AP
+		// ---------------------------
+
+		// re-read the switch so we can return to our preferred mode
+		// --------------------------------------------------------
+		reset_control_switch();
+
+		// Reset control integrators
+		// ---------------------
+		reset_I();
+
+	}else if (g.throttle_fs_action == 1){
+		// We're back in radio contact
+		// return to Home
+		// we should already be in RTL and throttle set to cruise
+		// ------------------------------------------------------
+		set_mode(RTL);
+		g.throttle_cruise = THROTTLE_CRUISE;
+	}
+}
+void low_battery_event(void)
+{
+	gcs.send_text(SEVERITY_HIGH,"Low Battery!");
+	set_mode(RTL);
+	g.throttle_cruise = THROTTLE_CRUISE;
+}
+
+
+void update_events()	// Used for MAV_CMD_DO_REPEAT_SERVO and MAV_CMD_DO_REPEAT_RELAY
+{
+	if(event_repeat == 0 || (millis() - event_timer) < event_delay)
+		return;
+
+	if (event_repeat > 0){
+		event_repeat --;
+	}
+	if(event_repeat != 0) {		// event_repeat = -1 means repeat forever
+		event_timer = millis();
+
+		if (event_id >= CH_5 && event_id <= CH_8) {
+			if(event_repeat%2) {
+				APM_RC.OutputCh(event_id, event_value); // send to Servos
+			} else {
+				APM_RC.OutputCh(event_id, event_undo_value);
+			}
+		}
+
+		if  (event_id == RELAY_TOGGLE) {
+			relay_toggle();
+		}
+	}
+}
+
+void relay_on()
+{
+	PORTL |= B00000100;
+}
+
+void relay_off()
+{
+	PORTL &= ~B00000100;
+}
+
+void relay_toggle()
+{
+	PORTL ^= B00000100;
+}
